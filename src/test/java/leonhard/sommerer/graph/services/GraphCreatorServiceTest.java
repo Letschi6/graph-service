@@ -1,4 +1,4 @@
-package leonhard.sommerer.dikjstra.services;
+package leonhard.sommerer.graph.services;
 
 import static org.junit.Assert.assertTrue;
 

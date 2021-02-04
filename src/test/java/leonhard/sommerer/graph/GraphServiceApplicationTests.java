@@ -1,10 +1,10 @@
-package leonhard.sommerer.dikjstra;
+package leonhard.sommerer.graph;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DijkstraServiceApplicationTests {
+class GraphServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

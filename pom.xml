@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>leonhard.sommerer</groupId>
-	<artifactId>dijkstra-service</artifactId>
+	<artifactId>graph-service</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<name>dijkstra-service</name>
-	<description>Spring Boot Dijkstra Service</description>
+	<name>graph-service</name>
+	<description>Spring Boot Graph Service</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
